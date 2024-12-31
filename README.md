@@ -1,2 +1,2 @@
-# esp_s3_tests
-Tests for understanding the esp32_s3 board
+# ESP32 Tests 
+Test to gain understanding of the ESP32 Board for the SMORES project in the MODLAB Research Group, GRASP Lab, UPenn. 
